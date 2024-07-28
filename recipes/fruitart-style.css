@@ -1,24 +1,24 @@
 body {
     font-family: Garamond, Georgia, serif;
-    color: #581b23;
+    color: #244e05;
 }
 
 h1 {
     font-size: 40px;
-    background-color: #fa7083;
+    background-color: #c4df92;
 }
 
 .caption {
     font-size: 14px;
-    color:#ca4b5c;
+    color:#5f8125;
 }
 
 ul {
-    color:#ca4b5c;
+    color:#5f8125;
     font-size: 18px;
 }
 
 ol {
-    color: #ca4b5c;
+    color: #5f8125;
     font-size: 18px;
 }

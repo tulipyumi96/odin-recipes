@@ -1,0 +1,18 @@
+body {
+    font-family: Garamond, Georgia, serif;
+    color: #660b0b;
+}
+
+h1 {
+    background-color: #fb6969;
+}
+
+.caption {
+    font-size: 14px;
+    color: #b02828;
+}
+
+.secondary {
+    font-size: 18px;
+    color: #b02828;
+}

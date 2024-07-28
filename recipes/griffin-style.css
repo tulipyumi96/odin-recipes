@@ -4,5 +4,16 @@ body {
 }
 
 h1 {
+    font-size: 40px;
     background-color: #d8b088;
+}
+
+.caption {
+    color:#804f1d;
+    font-size: 14px;
+}
+
+.secondary {
+    color:#804f1d;
+    font-size: 18px;
 }

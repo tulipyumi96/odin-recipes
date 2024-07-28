@@ -1,4 +1,23 @@
 body {
     font-family: Garamond, Georgia, serif;
-    color: rgb(48, 38, 32);
+    color: rgb(61, 30, 11);
+}
+
+h1 {
+    font-size: 48px;
+}
+
+.fruit-tart {
+    color: #476418;
+    background-color: #b5e36b;
+}
+
+.dragon {
+    color: #5c1010;
+    background-color: #f67777;
+}
+
+.griffin {
+    color: #27140b;
+    background-color: #dda584;
 }

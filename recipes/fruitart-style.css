@@ -1,0 +1,24 @@
+body {
+    font-family: Garamond, Georgia, serif;
+    color: #581b23;
+}
+
+h1 {
+    font-size: 40px;
+    background-color: #fa7083;
+}
+
+.caption {
+    font-size: 14px;
+    color:#ca4b5c;
+}
+
+ul {
+    color:#ca4b5c;
+    font-size: 18px;
+}
+
+ol {
+    color: #ca4b5c;
+    font-size: 18px;
+}
